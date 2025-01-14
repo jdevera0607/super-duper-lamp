@@ -1,5 +1,6 @@
 Webpack template for The Odin Project & personal use.
-This is a template that was created using the Odin Project and Webpack's documentations.
+
+This is a template that was created using The Odin Project and Webpack's documentations.
 
 RELEVANT LINKS: 
 
