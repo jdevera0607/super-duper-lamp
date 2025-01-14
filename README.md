@@ -10,5 +10,7 @@ https://webpack.js.org/guides/production/
 How to start with used scripts: 
 
 npm install
+
 npm start
+
 npm run build
